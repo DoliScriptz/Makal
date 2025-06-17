@@ -171,3 +171,4 @@ createNotification("<font color='rgb(102,255,0)'>Loading Anime Fighting SR Scrip
         end
       })
     createNotification("Script has Loaded <font color='rgb(78,255,0)'>successfully!</font>")
+	end)
